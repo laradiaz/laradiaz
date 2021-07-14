@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋, I'm Lara</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h1 align="left">Hi 👋, I'm Lara</h1>
 
-<p align="left"> <a href="https://twitter.com/selene_nr" target="blank"><img src="https://img.shields.io/twitter/follow/selene_nr?logo=twitter&style=for-the-badge" alt="selene_nr" /></a> </p>
+ 🔭 I’m currently working on **Codecons**
 
-- 🔭 I’m currently working on **Codecons**
+ 📝 I regularly write articles on [https://dev.to/selene_nr](https://dev.to/selene_nr)
 
-- 📝 I regularly write articles on [https://dev.to/selene_nr](https://dev.to/selene_nr)
-
-- ⚡ Fun fact **I like archery and medieval combat**
+ ⚡ Fun fact **I like archery and medieval combat**
 
 
 <h3 align="left">Connect with me:</h3>
