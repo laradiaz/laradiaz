@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lara</h1>
 
- 🔭 I’m currently working at **Codecons**
+ 🔭 I’m currently working at **@reciprocity**
  
  🌱 I’m currently learning **Cypress and MobX**
 
