@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Lara</h1>
-
- 🔭 I’m currently working at **@reciprocity**
  
- 🌱 I’m currently learning **Cypress and MobX**
+ 🌱 I’m currently learning **KeystoneJS**
+
+ 🍺 I'm part of the BeerJs CBA community
 
  👨‍💻 All of my projects are available at [https://laradiaz.tech/](https://laradiaz.tech/)
 
- 📝 I regularly write articles on [https://dev.to/selene_nr](https://dev.to/selene_nr)
+ 📝 I regularly write articles on [https://dev.to/selene_nr](https://dev.to/selene_l21)
 
  ⚡ Fun fact **I like archery and medieval combat**
 
@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/https://dev.to/selene_nr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/selene_nr" height="30" width="40" /></a>
-<a href="https://twitter.com/selene_nr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selene_nr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/larad%c3%adaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/larad%c3%adaz/" height="30" width="40" /></a>
+<a href="https://dev.to/selene_l21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="https://dev.to/selene_nr" height="30" width="40" /></a>
+<a href="https://twitter.com/selene_l21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="selene_nr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/larad%C3%ADaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/larad%c3%adaz/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
