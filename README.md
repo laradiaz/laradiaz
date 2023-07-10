@@ -6,7 +6,7 @@
 
  👨‍💻 All of my projects are available at [https://laradiaz.dev/](https://laradiaz.dev/)
 
- 📝 I regularly write articles on [https://dev.to/selene_nr](https://dev.to/selene_l21)
+ 📝 I regularly write articles on [[https://dev.to/selene_nr](https://dev.to/selene_l21)]
 
  ⚡ Fun fact **I like archery and medieval combat**
 
