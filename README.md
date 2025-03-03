@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Lara</h1>
  
-I am a self-taught developer and for a little more than 3 years I have been coding, mainly in React. Co-organizer of [BeerJs CBA](https://www.instagram.com/beerjscba/). Passionate about video games, coffee, archery, and new challenges.
+I'm a self-taught developer with 5 years of coding experience, mainly in React. I love building solutions, tackling new challenges, and continuously learning. Co-organizer of [BeerJs CBA](https://www.instagram.com/beerjscba/). Beyond coding, I'm passionate about video games, coffee, archery, and exploring new opportunities. As a #WTMAmbassador and #girlCodeAmbassador, I enjoy being part of initiatives that support diversity in tech.
 
 
 
